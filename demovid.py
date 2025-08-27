@@ -1,5 +1,4 @@
-# demovid.py
-# Video overlay using ux_present visuals. Stable IDs + smoothed gaze points.
+
 
 import argparse, time
 from pathlib import Path
