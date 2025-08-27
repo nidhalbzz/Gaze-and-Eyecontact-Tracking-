@@ -1,0 +1,30 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.cache/
+.tmp/
+
+# editors
+.vscode/
+.idea/
+
+# data/outputs
+out*/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+
+# model & checkpoints (use LFS below)
+*.pt
+*.pth
+*.onnx
+*.caffemodel

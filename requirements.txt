@@ -1,0 +1,7 @@
+﻿torch
+torchvision
+opencv-python
+numpy
+Pillow
+ultralytics
+mediapipe
