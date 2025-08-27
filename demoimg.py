@@ -1,5 +1,3 @@
-# demoimg.py
-# Single-image presentation overlay (NO heatmap). Uses ux_present for visuals.
 
 import argparse
 from pathlib import Path
